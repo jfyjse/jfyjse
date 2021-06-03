@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jfyjse
+- 👋 Hi, I’m Joffy Jose
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MEARN stack web development
 - 📫 Reach me at joffyjv@gmail.com
